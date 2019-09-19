@@ -1,1 +1,3 @@
-# bhuvaneshtomar.github.io
+Tech Blog
+
+Articles related to Technology, History, Nostlagia, Fact-finding
